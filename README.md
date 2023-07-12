@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @satadeep51
 - 👀 I’m interested in coding,robotics and still searching.
-- 🌱 I’m currently learning Flutter and Dart.
+- 🌱 I’m currently learning backend development on Node.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me -- drop a mail on satadeep51@gmail.com
 
